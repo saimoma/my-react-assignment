@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+.header ul li {
+    display: inline-block;
+}
+.header ul li{
+    list-style: none;
+}
+.header ul li {
+    text-decoration: none;
+    margin-right: 10px;
+}
